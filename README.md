@@ -1,8 +1,10 @@
-# my_first_flutter_app
+# My First Flutter App
 
-A new Flutter project.
+Displays hello message using a text widget
 
 ## Getting Started
+
+Run using 'flutter run' command from root directory. An Android Virtual Device is required beforehand.
 
 This project is a starting point for a Flutter application.
 
